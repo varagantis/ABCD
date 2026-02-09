@@ -1,0 +1,8 @@
+.gcloudignore
+.git
+.gitignore
+node_modules
+dist
+
+# Do NOT ignore .env.local so it gets sent to Cloud Build
+#!.env.local
